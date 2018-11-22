@@ -31,3 +31,5 @@
       tags: ruby
     - role: rails
       tags: rails
+    - role: monit
+      tags: monit
