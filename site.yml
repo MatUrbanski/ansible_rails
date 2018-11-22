@@ -21,3 +21,5 @@
       tags: common
     - role: deploy-user
       tags: deploy-user
+    - role: postgresql
+      tags: postgresql
