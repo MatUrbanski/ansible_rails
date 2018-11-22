@@ -19,3 +19,5 @@
   roles:
     - role: common
       tags: common
+    - role: deploy-user
+      tags: deploy-user
