@@ -29,3 +29,5 @@
       tags: certbot
     - role: ruby
       tags: ruby
+    - role: rails
+      tags: rails
