@@ -1,0 +1,6 @@
+---
+
+- name: Configure {{ deploy_app_name }} logrotation
+  template:
+    src: logrotate
+    dest: /etc/logrotate.d/{{ deploy_app_name }}
