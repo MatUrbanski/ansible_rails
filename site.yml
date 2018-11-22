@@ -33,3 +33,5 @@
       tags: rails
     - role: monit
       tags: monit
+    - role: redis
+      tags: redis
