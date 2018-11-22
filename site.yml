@@ -27,3 +27,5 @@
       tags: nginx
     - role: certbot
       tags: certbot
+    - role: ruby
+      tags: ruby
