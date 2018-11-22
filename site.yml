@@ -23,3 +23,5 @@
       tags: deploy-user
     - role: postgresql
       tags: postgresql
+    - role: nginx
+      tags: nginx
