@@ -10,7 +10,7 @@ Use this ansible playbook to setup a fresh server with the following components:
 * Monit (to keep Puma and Sidekiq runnig)
 * ruby-install
 * chruby
-* Directories to deploy Rails with Capistrano and Puma App Server (see below)
+* Directories to deploy Rails with Capistrano and Puma App Server
 * Swapfile (useful for small DO instances)
 * Locales
 * Tools (tmux, vim, htop, git, wget, curl etc.)
